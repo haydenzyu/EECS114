@@ -1,0 +1,27 @@
+EECS 114 Homework 4
+Hayden Yu
+ID#66185399
+March 17, 2019
+
+For number 1, input the following commands:
+	-make clean
+	-make d1
+	-./d1
+
+The program will output the edit distance and the sequencey of transformation of
+"electrical engineering" to "computer science."
+
+For number 2, input the following commands:
+	-make clean
+	-make d2
+	-./d2
+
+The program will ask you to input the name of the text file.
+
+Type in input1.txt for the program to run that text file.
+Type in input2.txt for the program to run that text file.
+Type in input3.txt for the program to run that text file.
+
+The program will output the the edit distance.
+
+To run a different text file, input ./d2 and a different text file.
